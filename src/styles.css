@@ -133,8 +133,8 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 .nav--open::before { opacity: 0; }
 .nav--dark { color: var(--white); }
 .nav__logo { flex: none; }
-.logo { position: relative; display: inline-flex; align-items: center; height: 37px; }
-.logo img { display: block; width: 141px; height: auto; transition: opacity 0.3s; }
+.logo { position: relative; display: inline-flex; align-items: center; height: 44px; }
+.logo img { display: block; width: 168px; height: auto; transition: opacity 0.3s; }
 .logo__dark { position: absolute; left: 0; top: 0; opacity: 0; }
 .logo--dark .logo__light { opacity: 0; }
 .logo--dark .logo__dark { opacity: 1; }
